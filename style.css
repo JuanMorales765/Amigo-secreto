@@ -184,10 +184,10 @@ ul {
     background-color: var(--color-button-hover);
 }
 .img-cuadrada {
-    width: 150px; 
-    height: 150px;
+    width: 170px; 
+    height: 170px;
     border: 5px solid #000; 
     border-radius: 15px;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
-    margin: 40px;
+    margin-lef: 30px;
 }
