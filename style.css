@@ -73,16 +73,17 @@ img {
     font-weight: 900;
     font-style: italic;
     color: var(--color-white);
+    margin-right: 30px; /* Espacio superior para separar el título de la imagen */
 }
-
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
     font-weight: 700;
     color: var(--color-primary);
-    margin: 10px 0;
+    margin: 20px 0;
     text-align: center;
 }
+
 
 /* Contenedores de entrada y botón */
 .input-wrapper {
