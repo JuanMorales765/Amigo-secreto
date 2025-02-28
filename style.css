@@ -73,7 +73,7 @@ img {
     font-weight: 900;
     font-style: italic;
     color: var(--color-white);
-    margin: 30px;
+    margin-lef: 30px;
 }
 .section-title {
     font-family: "Inter", serif;
@@ -189,5 +189,4 @@ ul {
     border: 5px solid #000; 
     border-radius: 15px;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
-    padding: 0 20px;
 }
